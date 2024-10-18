@@ -23,7 +23,7 @@ class Contoh {
 }
 
 $obj = new Contoh;
-echo $obj->halo();
+echo $obj->halo(); 
 echo $obj->halo();
 echo $obj->halo();
 echo "<hr>";
